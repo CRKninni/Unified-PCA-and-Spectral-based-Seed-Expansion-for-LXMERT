@@ -249,4 +249,4 @@ if __name__ == '__main__':
 
 
 
-# python demo_vqa.py --image-path /home/pranav/ExplanableAI/Transformer-spectral-interpretability-main/CLIP/astronaut.png --question "an astronaut and a rocket" --method-name ours
+# python demo_vqa.py --image-path /home/charan/ExplanableAI/Transformer-spectral-interpretability-main/CLIP/astronaut.png --question "an astronaut and a rocket" --method-name ours
